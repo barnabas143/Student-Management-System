@@ -1,4 +1,4 @@
- 🎓 Student Management System
+Student Management System
 
 A simple and efficient Student Management System built using HTML, CSS, and JavaScript. This project allows users to manage student records including adding, viewing, editing, and deleting details. It's a great example of a CRUD (Create, Read, Update, Delete) application implemented on the frontend.
 
